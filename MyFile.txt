@@ -1,0 +1,18 @@
+serial
+file organisation with data items in no particular order
+sequential
+file organisation where the data items are in some key field order
+file
+collection of data items
+input
+file mode which allows data to be written to the file
+output
+file mode which allows data to be read from the file
+append
+file mode which allows new data items to be added to the end of the file
+FILEREAD
+pseudocode term to read a data item from a file
+FILEWRITE
+pseudocode term to write a data item to a file
+EOF
+pseudocode for a function which returns TRUE/FALSE to indicate whether the end of file has been reached
